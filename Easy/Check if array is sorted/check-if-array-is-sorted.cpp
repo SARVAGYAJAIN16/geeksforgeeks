@@ -17,7 +17,7 @@ class Solution {
             {
                 
             }
-            else{
+            else {
                 return false;
             }
         }
